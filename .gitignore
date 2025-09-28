@@ -9,6 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-
-# Secret key
+# Secret api key
 .env
