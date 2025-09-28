@@ -10,5 +10,5 @@ wheels/
 .venv
 
 
-# Secret 
+# Secret key
 .env
